@@ -1,0 +1,9 @@
+node_modules
+.next
+.git
+.env
+*.db-shm
+*.db-wal
+public/uploads/*
+!public/uploads/.gitkeep
+npm-debug.log

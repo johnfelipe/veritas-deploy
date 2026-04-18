@@ -2,8 +2,9 @@
 
 const ELEVENLABS_API_URL = "https://api.elevenlabs.io/v1";
 
-// Default voice - Rachel (clear, professional)
-const DEFAULT_VOICE_ID = "21m00Tcm4TlvDq8ikWAM";
+// Default voice - Rachel (clear, professional). Overridable via ELEVENLABS_VOICE_ID.
+const DEFAULT_VOICE_ID =
+  process.env.ELEVENLABS_VOICE_ID || "21m00Tcm4TlvDq8ikWAM";
 
 export interface TTSOptions {
   voiceId?: string;

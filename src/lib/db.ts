@@ -69,6 +69,30 @@ function initializeDatabase() {
       solana_tx_signature TEXT,
       created_at INTEGER NOT NULL
     );
+
+    CREATE TABLE IF NOT EXISTS chat_sessions (
+      id TEXT PRIMARY KEY,
+      session_id TEXT NOT NULL,
+      messages TEXT NOT NULL,
+      intent TEXT,
+      extracted_data TEXT,
+      created_at INTEGER NOT NULL,
+      updated_at INTEGER NOT NULL
+    );
+
+    CREATE TABLE IF NOT EXISTS report_votes (
+      id TEXT PRIMARY KEY,
+      report_id TEXT NOT NULL,
+      session_id TEXT NOT NULL,
+      created_at INTEGER NOT NULL
+    );
+
+    CREATE TABLE IF NOT EXISTS report_subscriptions (
+      id TEXT PRIMARY KEY,
+      report_id TEXT NOT NULL,
+      session_id TEXT NOT NULL,
+      created_at INTEGER NOT NULL
+    );
   `);
 
   _initialized = true;
