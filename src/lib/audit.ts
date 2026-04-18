@@ -26,7 +26,11 @@ export async function logAction(
   payload: Record<string, unknown>
 ): Promise<string> {
   const id = uuidv4();
-  const timestamp = new Date();
+  // SQLite `integer timestamp` columns store Unix seconds. Round to seconds so
+  // the value used in the hash survives a round-trip through the database and
+  // `verifyHashChain` recomputes the same digest.
+  const timestampSeconds = Math.floor(Date.now() / 1000);
+  const timestamp = new Date(timestampSeconds * 1000);
 
   // Get previous hash for chain
   const lastEntry = await getLastEntry();
@@ -37,7 +41,7 @@ export async function logAction(
     prevHash,
     actionType,
     payload,
-    timestamp: timestamp.getTime(),
+    timestamp: timestampSeconds,
   });
   const hash = sha256(hashData);
 
@@ -92,12 +96,13 @@ export async function verifyHashChain(): Promise<{
       };
     }
 
-    // Verify the hash itself
+    // Verify the hash itself. Timestamp is stored as Unix seconds in SQLite,
+    // so the hash must be recomputed with the same seconds-precision value.
     const hashData = JSON.stringify({
       prevHash: entry.prevHash,
       actionType: entry.actionType,
       payload: JSON.parse(entry.payload),
-      timestamp: entry.createdAt.getTime(),
+      timestamp: Math.floor(entry.createdAt.getTime() / 1000),
     });
     const expectedHash = sha256(hashData);
 
