@@ -1,154 +1,65 @@
-# Noise Bylaws - City of Kingston
+# Normas de Convivencia y Ruido - Universidad de Antioquia
 
-## Overview
+Reglamento de convivencia aplicable a la Ciudad Universitaria y sedes regionales de la Universidad de Antioquia.
 
-The City of Kingston's Noise Bylaw (Bylaw Number 2004-52) regulates noise to ensure residents can enjoy peace and quiet in their homes and neighborhoods.
+## Principios Generales
 
-## Quiet Hours
+La Universidad promueve un ambiente de estudio, investigación y trabajo respetuoso. Los ruidos excesivos o comportamientos disruptivos afectan la actividad académica y están sujetos a control por parte de Seguridad Universitaria y la Dirección de Bienestar.
 
-### Residential Areas
+## Zonas de Silencio
 
-Noise that disturbs residents is prohibited during these hours:
+Las siguientes zonas exigen silencio en todo momento:
 
-**Weekdays (Monday to Friday)**
-- Quiet hours: 11:00 PM to 7:00 AM
+- **Biblioteca Central** y salas de consulta especializadas.
+- **Aulas de clase** mientras se desarrolla la actividad académica.
+- **Salas de lectura** en las facultades.
+- **Laboratorios** durante sesiones prácticas y de investigación.
 
-**Weekends and Holidays**
-- Quiet hours: 11:00 PM to 9:00 AM
+El uso de teléfonos móviles y reproductores de audio sin audífonos está prohibido en estas zonas.
 
-### Specific Noise Restrictions
+## Horarios para Eventos con Amplificación
 
-| Activity | Prohibited Hours |
-|----------|-----------------|
-| Power tools, lawn mowers | 9:00 PM to 7:00 AM |
-| Construction | 7:00 PM to 7:00 AM (weekdays), All day Sunday |
-| Amplified music (outdoor) | 11:00 PM to 9:00 AM |
-| Motor vehicle repairs | 9:00 PM to 7:00 AM |
+Los eventos con amplificación sonora (ferias, festivales, actos culturales) sólo se permiten en las zonas abiertas autorizadas:
 
-## What Constitutes a Noise Violation
+- **Plazoleta Central Barrientos**
+- **Teatro Universitario Camilo Torres Restrepo**
+- **Coliseo Universitario**
 
-The bylaw prohibits noise that:
-- Disturbs the peace, rest, or enjoyment of residents
-- Is clearly audible at the property line
-- Is persistent and ongoing
+Los horarios permitidos son:
 
-### Common Violations
+- **Lunes a viernes**: 10:00 a.m. – 8:00 p.m.
+- **Sábados**: 10:00 a.m. – 6:00 p.m.
 
-- Loud music or parties
-- Barking dogs
-- Vehicle noise (loud mufflers, idling)
-- Construction outside permitted hours
-- Power equipment during quiet hours
+Fuera de estos horarios se requiere autorización previa de la Vicerrectoría de Extensión y la Dirección de Bienestar.
 
-## Exemptions
+## Obras de Construcción y Mantenimiento
 
-Some activities are exempt from noise restrictions:
+Los trabajos de mantenimiento, obras civiles o instalaciones que generen ruido estructural deben coordinarse con la Dirección de Logística y respetar el siguiente horario:
 
-- Emergency vehicles and operations
-- Snow removal equipment
-- City-approved special events
-- Agricultural operations
-- Construction with a special permit
+- **Lunes a viernes**: 7:00 a.m. – 6:00 p.m.
+- **Sábados**: 8:00 a.m. – 2:00 p.m.
 
-### Special Event Permits
+Las obras fuera de este horario requieren un permiso especial y notificación a las unidades académicas afectadas.
 
-Event organizers can apply for a noise exemption permit for:
-- Festivals and concerts
-- Community celebrations
-- Sporting events
+## Reportes por Ruido
 
-Apply at least 30 days in advance through the City's Special Events office.
+Si considera que el nivel de ruido es excesivo en alguna zona del campus:
 
-## Reporting Noise Complaints
+1. Si afecta una actividad académica en curso, notifique inmediatamente al docente responsable.
+2. Si ocurre en áreas comunes, llame a Seguridad Universitaria al +57 (604) 219 5555.
+3. Para reportar de forma persistente, use la herramienta Veritas o escriba a convivencia@udea.edu.co.
 
-### How to Report
+## Sanciones
 
-**Non-Emergency Noise Complaints**
-1. Call 311 or 613-546-0000
-2. File online at cityofkingston.ca/report
-3. Email bylawenforcement@cityofkingston.ca
+El incumplimiento del reglamento de convivencia puede dar lugar a:
 
-**After Hours/Emergency**
-- Call Kingston Police non-emergency: 613-549-4660
-- For ongoing disturbances that won't wait until morning
+- Llamado de atención verbal por parte del personal de vigilancia.
+- Registro en el sistema disciplinario de la Universidad.
+- Apertura de proceso disciplinario conforme al Reglamento Estudiantil (Acuerdo Superior 1 de 1981) o Estatuto del Personal Administrativo.
+- Suspensión temporal del acceso al campus en casos graves.
 
-### What Information to Provide
+## Contactos
 
-When reporting, include:
-- Your name and contact information
-- Address of the noise source
-- Type of noise (music, construction, etc.)
-- Date and time of occurrence
-- How long the noise has been ongoing
-
-### Anonymous Reporting
-
-You may file an anonymous complaint, but providing contact information helps bylaw officers follow up on your case.
-
-## Enforcement
-
-### Investigation Process
-
-1. Bylaw officer investigates the complaint
-2. Officer attempts to observe the noise
-3. If violation confirmed, warning or ticket issued
-4. Repeat offenders face escalating fines
-
-### Penalties
-
-| Offense | Fine |
-|---------|------|
-| First offense | $250 |
-| Second offense | $350 |
-| Third offense | $450 |
-| Continued offenses | Up to $10,000 |
-
-### Court Prosecution
-
-Repeated violations may result in prosecution under the Provincial Offences Act, with maximum fines up to $100,000.
-
-## Resolving Noise Disputes
-
-### Neighbor-to-Neighbor
-
-Before filing a complaint, consider:
-- Speaking directly with your neighbor
-- Writing a polite note explaining the issue
-- Using a community mediator
-
-### Mediation Services
-
-The Kingston Community Mediation Centre offers free conflict resolution services:
-- Phone: 613-507-7235
-- Email: info@kingstonmediation.ca
-
-## Special Considerations
-
-### Student Housing Areas
-
-Areas near Queen's University have enhanced enforcement during:
-- Homecoming weekend
-- St. Patrick's Day
-- Move-in/move-out periods
-
-### Construction Noise
-
-Builders and contractors must:
-- Obtain proper permits before starting work
-- Follow permitted construction hours
-- Minimize noise impact on neighbors
-
-For extended hours construction, apply for a Construction Noise Permit through Building Services.
-
-## Contact Information
-
-**Bylaw Enforcement**
-- Phone: 613-546-0000 (press 5 for bylaws)
-- Email: bylawenforcement@cityofkingston.ca
-- Website: cityofkingston.ca/bylaws
-
-**After Hours**
-- Kingston Police: 613-549-4660
-
-**Mediation**
-- Kingston Community Mediation: 613-507-7235
+- **Seguridad Universitaria 24/7**: +57 (604) 219 5555
+- **Convivencia y Bienestar**: convivencia@udea.edu.co
+- **Sitio web**: https://www.udea.edu.co/reglamentos/convivencia

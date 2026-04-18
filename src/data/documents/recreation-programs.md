@@ -1,80 +1,62 @@
-# Recreation Programs - City of Kingston
+# Programas de Bienestar, Deporte y Cultura - Universidad de Antioquia
 
-- **Home
+La Dirección de Bienestar Universitario ofrece programas de deporte, cultura y promoción de la salud para toda la comunidad de la Universidad de Antioquia.
 
- - **Activities and Recreation
+## Deporte Universitario
 
-# Activities and Recreation
+El Coliseo Universitario y las canchas deportivas ofrecen actividades gratuitas para estudiantes, docentes y personal administrativo con carné vigente.
 
-We offer a variety of programs and activities for everyone. Whether you are interested in special programs, affordable fun, sports, arts, fitness, health, wellness, or community improvement, we have something to offer you. Join us and enjoy the many activities and programs available in our community! 
+- **Deportes de conjunto**: fútbol, voleibol, baloncesto, ultimate frisbee, rugby.
+- **Deportes individuales**: atletismo, natación, ajedrez, taekwondo, karate.
+- **Actividades libres**: gimnasio, sala de spinning, clases grupales (pilates, rumba, acondicionamiento).
 
-Our Access Without Fear policy means everyone has access to City services, no matter their immigration status. We will not report a person's immigration status to Canada Border Services or Police.
+Horarios del Coliseo: lunes a viernes de 6:00 a.m. a 9:00 p.m.; sábados de 7:00 a.m. a 2:00 p.m.
 
-Adapted Programs
+Inscripciones: https://www.udea.edu.co/bienestar/deporte-cultura
 
-We offer programs specifically tailored for individuals with special needs.
+## Cultura y Arte
 
-Affordable Recreation Program
+La Universidad cuenta con grupos institucionales representativos abiertos a la comunidad:
 
-Apply for fee assistance to lower the costs of recreational programs.
+- **Coro Universitario**
+- **Banda Sinfónica**
+- **Grupo de Danza Folclórica**
+- **Teatro Universitario**
+- **Cine Club Universitario**
 
-Aquatics and Swimming
+Las audiciones se realizan al inicio de cada semestre académico. Información en cultura@udea.edu.co.
 
-Find swimming programs and schedules and learn about our indoor and outdoor pools.
+## Promoción de la Salud
 
-Community Access Programs
+El Programa de Promoción y Prevención ofrece:
 
-Explore free or fee-reduced programs available for our community.
+- Consulta médica general en el Centro de Salud del campus.
+- Consulta psicológica individual y grupal.
+- Consulta odontológica preventiva.
+- Jornadas de vacunación y tamizaje.
+- Asesoría nutricional.
 
-Drop-In Recreational Programs
+Agenda tu cita en promocionysalud@udea.edu.co o llama al +57 (604) 219 5666.
 
-Discover our variety of drop-in programs: skating, swimming, sports and fitness. 
+## Programa de Complementación Alimentaria
 
-Facilities
+La Universidad ofrece tiquetes alimenticios subsidiados a estudiantes en condición socioeconómica vulnerable. El proceso de inscripción se abre al inicio de cada semestre a través de la Dirección de Bienestar.
 
-Discover our various indoor and outdoor fitness and recreational facilities. 
+Requisitos básicos:
 
-Farmers Market
+- Ser estudiante activo de pregrado.
+- Presentar estudio socioeconómico.
+- Cumplir con la carga académica mínima vigente.
 
-Find out about our farmers’ market in different locations and buy local. 
+## Ocio y Espacios de Encuentro
 
-Marinas and Boat Launches
+- **Plazoleta Central Barrientos**: espacio de encuentro al aire libre.
+- **Zona de juegos de mesa** en la Biblioteca Central.
+- **Jardín Botánico UdeA** (acceso por la Carrera 52): recorridos guiados gratuitos.
 
-Explore our marinas and boat launches and request to book a transient or seasonal mooring. 
+## Contactos
 
-Memberships
-
-Discover our fitness memberships for access to our various facilities. 
-
-Parks, Trails, and Sports Fields and Courts
-
-Explore our variety of parks, trails and sports fields for your recreational activities. 
-
-Refund Requests
-
-Request a credit refund for memberships, registered programs, facility bookings, and more.
-
-Register for a Program
-
-Check out our recreation portal and register for a program. 
-
-Rentals
-
-Looking to book one of our recreation facilities? Learn about our rental options. 
-
-Skating
-
-Learn about our skating programs and schedules at our indoor and outdoor rinks. 
-
-Volunteer
-
-Looking for a way to give back? Check out the variety of opportunities available. 
-
-The City of Kingston acknowledges that we are on the traditional homeland of the Anishinabek, Haudenosaunee, and the Huron-Wendat, and thanks these nations for their care and stewardship over this shared land.
-
-Today, the City is committed to working with Indigenous peoples and all residents to pursue a united path of reconciliation.
-
-Learn more about the City's reconciliation initiatives.
-
----
-Source: https://www.cityofkingston.ca/residents/recreation
+- **Dirección de Bienestar Universitario**: bienestaruniversitario@udea.edu.co
+- **Deporte**: deporteycultura@udea.edu.co
+- **Salud**: promocionysalud@udea.edu.co
+- **Sitio web**: https://www.udea.edu.co/bienestar

@@ -29,17 +29,17 @@ import { LanguageSelector, useTranslation } from "@/components/LanguageSelector"
 import { PhotoUpload } from "@/components/PhotoUpload";
 import { searchAddresses, GeocodingResult } from "@/lib/geocode";
 
-// Default Kingston location (used since map step was removed for hackathon demo)
+// Default Universidad de Antioquia (Ciudad Universitaria) location
 const DEFAULT_LOCATION = {
-  lat: 44.2312,
-  lng: -76.486,
-  address: "Kingston, Ontario, Canada"
+  lat: 6.2676,
+  lng: -75.5685,
+  address: "Ciudad Universitaria, Universidad de Antioquia, Medellín, Colombia"
 };
 
-// Default coordinates for location biasing
+// Default coordinates for location biasing (UdeA campus)
 const DEFAULT_COORDS = {
-  lat: 44.2312,
-  lng: -76.486,
+  lat: 6.2676,
+  lng: -75.5685,
 };
 
 type IssueType =
@@ -162,7 +162,7 @@ export default function ReportPage() {
           });
         },
         () => {
-          // Fall back to Kingston center if geolocation denied
+          // Fall back to UdeA campus center if geolocation denied
           setUserLocation(DEFAULT_COORDS);
         }
       );
@@ -207,7 +207,7 @@ export default function ReportPage() {
     const timer = setTimeout(async () => {
       setIsSearching(true);
       const results = await searchAddresses(addressInput, 5, {
-        countryCode: "ca",
+        countryCode: "co",
         nearLat: userLocation?.lat,
         nearLng: userLocation?.lng,
       });
@@ -241,7 +241,7 @@ export default function ReportPage() {
     setIsSubmitting(true);
     setError(null);
 
-    // Use provided location or fall back to default Kingston location
+    // Use provided location or fall back to default UdeA campus location
     const reportLocation = location || DEFAULT_LOCATION;
 
     try {
@@ -454,7 +454,7 @@ export default function ReportPage() {
                             setShowDropdown(false);
                           }
                         }}
-                        placeholder="e.g., 123 Princess St, Kingston"
+                        placeholder="ej., Bloque 9, Ciudad Universitaria, Medellín"
                         className="w-full bg-slate-800/50 border-slate-700 text-white placeholder:text-slate-500"
                       />
                       {isSearching && (
@@ -489,7 +489,7 @@ export default function ReportPage() {
                     )}
                     {!location && (
                       <p className="text-xs text-slate-500 mt-2">
-                        Start typing to search for an address, or leave blank to use default location (Kingston, Ontario)
+                        Escribe para buscar una dirección, o déjalo en blanco para usar la ubicación por defecto (Ciudad Universitaria, UdeA, Medellín)
                       </p>
                     )}
                   </div>

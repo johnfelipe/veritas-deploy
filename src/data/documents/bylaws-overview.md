@@ -1,212 +1,62 @@
-# Bylaws Overview - City of Kingston
+# Reglamentos Generales - Universidad de Antioquia
 
-- **Home
+Guía general de los reglamentos más consultados por la comunidad de la Universidad de Antioquia.
 
- - **Bylaws and Animal Services
+## Reglamento Estudiantil de Pregrado
 
- - **Commonly Requested Bylaws
+El Reglamento Estudiantil (Acuerdo Superior 1 de 1981 y normas modificatorias) regula:
 
-# Commonly Requested Bylaws
+- Derechos y deberes de los estudiantes de pregrado.
+- Matrícula, permanencia y prueba académica.
+- Evaluación: cancelaciones de curso, habilitaciones, validaciones.
+- Reconocimiento de asignaturas y reingreso.
+- Régimen disciplinario aplicable a estudiantes.
 
- Section Menu
+Consulta el texto completo en https://www.udea.edu.co/reglamentos/estudiantes
 
-Commonly requested bylaws are municipal regulations that the public often looks to understand and follow. 
+## Estatuto del Personal Docente
 
-If you need access to bylaws that are not available on this page, please Contact Us.
+El Estatuto del Personal Docente (Acuerdo Superior 083 de 1996) regula:
 
-Bylaw Library
+- Categorías y escalafón docente.
+- Concursos públicos de méritos.
+- Evaluación del desempeño docente.
+- Año sabático, comisiones de estudio y licencias.
+- Régimen disciplinario docente.
 
-Find the full text of City bylaws and request an official copy if needed.
+## Estatuto del Personal Administrativo
 
-Community Standards
+El personal administrativo de la Universidad se rige por el Estatuto General (Acuerdo Superior 1 de 1994), el Manual de Funciones, y las normas laborales de la Universidad como ente público autónomo.
 
-Learn how we promote a safe, inclusive community by addressing nuisance behaviours in public spaces**.**
+## Reglamento de Propiedad Intelectual
 
-Noise Bylaw
+El Acuerdo Superior 204 de 2001 y normas modificatorias regulan:
 
-Learn about our regulations on excessive noise. 
+- Propiedad intelectual sobre obras producidas por docentes, estudiantes y personal administrativo.
+- Divisiones de regalías por patentes y obras derivadas.
+- Uso del nombre y marca "Universidad de Antioquia".
 
-Nuisance Party Bylaw
+## Reglamento de Bibliotecas
 
-Learn about our regulations to prevent parties that could disturb neighbourhoods. 
+El Sistema de Bibliotecas tiene normas específicas sobre:
 
-Property Standards Bylaw
+- Préstamo externo: hasta 5 libros simultáneos para estudiantes, 10 para docentes.
+- Renovación y devolución: por la plataforma OPAC o presencialmente.
+- Sanciones por mora: suspensión del servicio proporcional al retraso.
+- Comportamiento en salas de lectura y zonas silenciosas.
 
-Learn about our regulations for maintaining buildings and properties within the city. 
+## Convivencia y Código de Ética
 
-Tree Bylaw and Permits
+La Universidad cuenta con un Código de Buen Gobierno y una Política de Convivencia que prohíben:
 
-Learn about our tree removal and injury regulations and how to apply for a tree permit.
+- Todo acto de discriminación por sexo, género, raza, creencias, orientación política o condición económica.
+- La violencia sexual y acoso: canal oficial asuntosgenero@udea.edu.co.
+- El consumo de sustancias psicoactivas dentro del campus.
+- Conductas que atenten contra la integridad física, moral o psicológica de cualquier miembro de la comunidad.
 
-Watering Restrictions
+## Canales para Consultar y Reportar
 
-Learn about our water use regulations during summer. 
-
-## Waste Collection Bylaw 
-
-Our Waste Collection Bylaw prohibits residents from damaging or misusing waste bins, littering, or using someone else's bin for their waste.  
-
-We are actively enforcing this bylaw and will charge property owners who break these rules. Property owners and landlords must also keep their properties clean from waste and help tenants do the same. If there is a mess left behind, a $125 fee plus cleanup costs will be added to the property’s tax bill. 
-
-## Good Neighbour Guide
-
-The Good Neighbour Guide has been created to provide community members with a better understanding of how the City of Kingston operates, the services and opportunities available, and how residents can contribute to improving their neighbourhoods. At the heart of a strong, vibrant community is a simple idea: we are all neighbours. Whether you have just moved in or have called Kingston home for years, community members share a responsibility to help shape a welcoming, respectful, and inclusive community.
-
- Bylaws and Animal Services
-
- Commonly Requested Bylaws
-
- Toggle Section
-
- Commonly Requested Bylaws
-
- Toggle Section
-
-Bylaw Library 
- 
- Toggle Section
-
-Administrative Penalties Bylaw 
-
-Animal Control Bylaw 
-
-Appliance Rental Rates and Miscellaneous Charges Bylaw 
-
-Appointment of Statutory Officials Bylaw 
-
-Brownfields Community Improvement Plan Bylaw 
-
-Brownfields Community Improvement Project Areas Bylaw 
-
-Building Bylaw 
-
-Cemetery Bylaw 
-
-Civic Addressing and Road Naming Bylaw 
-
-Committee Bylaw 
-
-Community Standards Bylaw 
-
-Council Procedural Bylaw 
-
-Delegation of Authority Bylaw 
-
-Development Charges Bylaw 
-
-Election Sign Bylaw 
-
-False Alarms Bylaw 
-
-Fees and Charges Bylaw 
-
-Fence Bylaw 
-
-Garbage Bylaw 
-
-Gas Rates Bylaw 
-
-Green Standard Community Improvement Plan Bylaw 
-
-Heritage Grant Bylaw 
-
-Kingston Fire & Rescue Services Bylaw 
-
-Natural Gas Bylaw 
-
-Noise Bylaw 
-
-Nuisance Parties Bylaw 
-
-Parking Bylaw 
-
-Private Property Parking Bylaw 
-
-Procurement Policy Bylaw 
-
-Property Standards Bylaw 
-
-Public Market Bylaw 
-
-Sewer Use Bylaw 
-
-Short-term Rental Licensing Bylaw 
-
-Sign Bylaw 
-
-Site Plan Control Bylaw 
-
-Smoking and Vaporizing Bylaw 
-
-Streets Bylaw 
-
-Tax Levy Bylaw 
-
-citymweber@gmail.com 
-
-Transportation Network Company Bylaw 
-
-Tree Bylaw 
-
-Water and Waste Water Rates Bylaw 
-
-Yards Bylaw 
-
-Community Standards 
-
-Noise Regulations 
-
-Nuisance Party Regulations 
-
-Property Standards 
-
-Tree Bylaw and Permits 
-
-Watering Restrictions 
-
- View Full Menu
- Toggle Section
-
-Animal and Pet Services 
- 
- Toggle Section
-
-Backyard Chickens 
-
-Lost and Found Pets 
-
-Pet Licences 
-
-Wildlife 
-
-Bylaw Enforcement 
- 
- Toggle Section
-
-Administrative Monetary Penalties 
-
-University District Safety Initiative 
-
-Graffiti Prevention and Removal 
-
-Provincial Offences and Fines 
-
-Report an Issue 
-
-Zoning Bylaws 
-
-Contact
-
-**Bylaw Enforcement**
-bylawenforcement
-@cityofkingston.ca
-Phone: 613-546-0000
-
-The City of Kingston acknowledges that we are on the traditional homeland of the Anishinabek, Haudenosaunee, and the Huron-Wendat, and thanks these nations for their care and stewardship over this shared land.
-
-Today, the City is committed to working with Indigenous peoples and all residents to pursue a united path of reconciliation.
-
-Learn more about the City's reconciliation initiatives.
-
----
-Source: https://www.cityofkingston.ca/city-hall/bylaws
+- **Secretaría General**: secretariageneral@udea.edu.co
+- **Dirección de Bienestar**: bienestaruniversitario@udea.edu.co
+- **Oficina Jurídica**: juridica@udea.edu.co
+- **Sitio web**: https://www.udea.edu.co/reglamentos

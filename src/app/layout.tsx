@@ -7,9 +7,9 @@ import { ChatWidget } from "@/components/ChatWidget";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Veritas - Truth and Clarity for Civic Life",
-  description: "A civic clarity engine and issue reporting tool for the City of Kingston",
-  keywords: ["Kingston", "civic", "government", "city services", "issue reporting"],
+  title: "Veritas - Claridad y Verdad para la Vida Universitaria",
+  description: "Motor de claridad y herramienta de reporte de incidencias para la Universidad de Antioquia - Colombia",
+  keywords: ["Universidad de Antioquia", "UdeA", "campus", "servicios universitarios", "reporte de incidencias"],
 };
 
 export default function RootLayout({
@@ -18,7 +18,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" suppressHydrationWarning>
+    <html lang="es" suppressHydrationWarning>
       <head>
         <link
           rel="stylesheet"

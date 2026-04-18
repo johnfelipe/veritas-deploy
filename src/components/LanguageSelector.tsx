@@ -10,6 +10,9 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 
+// NOTE: The union type retains "fr" as the language code to preserve
+// backward compatibility with persisted user preferences, but the label and
+// content are now Spanish (Universidad de Antioquia, Colombia).
 export type Language = "en" | "fr";
 
 interface LanguageOption {
@@ -20,7 +23,7 @@ interface LanguageOption {
 
 const languages: LanguageOption[] = [
   { code: "en", name: "English", nativeName: "English" },
-  { code: "fr", name: "French", nativeName: "Français" },
+  { code: "fr", name: "Spanish", nativeName: "Español" },
 ];
 
 // Simple i18n translations
@@ -42,10 +45,10 @@ export const translations: Record<Language, Record<string, string>> = {
     noResults: "No results found",
 
     // Q&A page
-    typeQuestion: "Type your question about city services...",
+    typeQuestion: "Type your question about Universidad de Antioquia services...",
     viewSources: "View Sources",
-    askAnything: "Ask anything about Kingston city services",
-    questionPlaceholder: "e.g., When is garbage collection in my area?",
+    askAnything: "Ask anything about Universidad de Antioquia services",
+    questionPlaceholder: "e.g., What are the library hours at UdeA?",
 
     // Report page
     reportSubmitted: "Report submitted successfully",
@@ -85,73 +88,73 @@ export const translations: Record<Language, Record<string, string>> = {
     noReportsFound: "No reports found",
 
     // Misc
-    disclaimer: "This is informational only. Verify with City for legal decisions.",
-    welcomeTitle: "Your City, Simplified",
-    welcomeSubtitle: "Get instant answers about Kingston city services, report issues, and track their resolution.",
+    disclaimer: "Informational only. Verify with Universidad de Antioquia for official decisions.",
+    welcomeTitle: "Your University, Simplified",
+    welcomeSubtitle: "Get instant answers about Universidad de Antioquia services, report campus issues, and track their resolution.",
   },
   fr: {
     // Navigation
-    askQuestion: "Poser une question",
-    reportIssue: "Signaler un problème",
-    dashboard: "Tableau de bord",
-    home: "Accueil",
+    askQuestion: "Hacer una pregunta",
+    reportIssue: "Reportar una incidencia",
+    dashboard: "Tablero",
+    home: "Inicio",
 
     // Common actions
-    search: "Rechercher...",
-    submit: "Soumettre",
-    cancel: "Annuler",
-    next: "Suivant",
-    back: "Retour",
-    loading: "Chargement...",
-    noResults: "Aucun résultat",
+    search: "Buscar...",
+    submit: "Enviar",
+    cancel: "Cancelar",
+    next: "Siguiente",
+    back: "Atrás",
+    loading: "Cargando...",
+    noResults: "Sin resultados",
 
     // Q&A page
-    typeQuestion: "Posez votre question sur les services municipaux...",
-    viewSources: "Voir les sources",
-    askAnything: "Posez vos questions sur les services de Kingston",
-    questionPlaceholder: "ex: Quand est la collecte des ordures dans mon quartier?",
+    typeQuestion: "Escribe tu pregunta sobre los servicios de la Universidad de Antioquia...",
+    viewSources: "Ver fuentes",
+    askAnything: "Pregunta cualquier cosa sobre los servicios de la Universidad de Antioquia",
+    questionPlaceholder: "ej.: ¿Cuál es el horario de la Biblioteca Central?",
 
     // Report page
-    reportSubmitted: "Rapport soumis avec succès",
-    selectLocation: "Sélectionner l'emplacement sur la carte",
-    uploadPhoto: "Télécharger une photo",
-    description: "Description",
-    issueType: "Type de problème",
-    whereIsIssue: "Où se trouve le problème?",
-    describeIssue: "Décrivez le problème",
-    reviewSubmit: "Réviser et soumettre",
-    selectIssueType: "Sélectionner le type de problème",
-    whatTypeOfIssue: "Quel type de problème signalez-vous?",
-    provideDetails: "Fournissez des détails sur le problème",
-    descriptionPlaceholder: "Veuillez décrire le problème en détail...",
-    clickMapToSelect: "Cliquez sur la carte pour sélectionner l'emplacement",
-    reviewYourReport: "Révisez votre rapport",
-    submitReport: "Soumettre le rapport",
-    submitting: "Soumission...",
+    reportSubmitted: "Reporte enviado exitosamente",
+    selectLocation: "Seleccionar ubicación en el mapa",
+    uploadPhoto: "Subir foto",
+    description: "Descripción",
+    issueType: "Tipo de incidencia",
+    whereIsIssue: "¿Dónde está la incidencia?",
+    describeIssue: "Describe la incidencia",
+    reviewSubmit: "Revisar y enviar",
+    selectIssueType: "Selecciona el tipo de incidencia",
+    whatTypeOfIssue: "¿Qué tipo de incidencia estás reportando?",
+    provideDetails: "Agrega detalles sobre la incidencia",
+    descriptionPlaceholder: "Por favor describe la incidencia en detalle...",
+    clickMapToSelect: "Haz clic en el mapa para seleccionar la ubicación",
+    reviewYourReport: "Revisa tu reporte",
+    submitReport: "Enviar reporte",
+    submitting: "Enviando...",
 
     // Issue types
-    pothole: "Nid-de-poule",
-    streetlight: "Éclairage de rue",
-    graffiti: "Graffiti",
-    garbage: "Ordures/Déchets",
-    parking: "Problème de stationnement",
-    noise: "Plainte de bruit",
-    water: "Eau/Égout",
-    other: "Autre",
+    pothole: "Hueco en vía",
+    streetlight: "Alumbrado",
+    graffiti: "Grafiti",
+    garbage: "Basura",
+    parking: "Parqueadero",
+    noise: "Ruido",
+    water: "Agua/alcantarillado",
+    other: "Otro",
 
     // Dashboard
-    recentReports: "Rapports récents",
-    allReports: "Tous les rapports",
-    pending: "En attente",
-    inProgress: "En cours",
-    resolved: "Résolu",
-    searchReports: "Rechercher des rapports...",
-    noReportsFound: "Aucun rapport trouvé",
+    recentReports: "Reportes recientes",
+    allReports: "Todos los reportes",
+    pending: "Pendiente",
+    inProgress: "En curso",
+    resolved: "Resuelto",
+    searchReports: "Buscar reportes...",
+    noReportsFound: "No se encontraron reportes",
 
     // Misc
-    disclaimer: "Ceci est informatif seulement. Vérifiez auprès de la Ville pour les décisions juridiques.",
-    welcomeTitle: "Votre ville, simplifiée",
-    welcomeSubtitle: "Obtenez des réponses instantanées sur les services de Kingston, signalez des problèmes et suivez leur résolution.",
+    disclaimer: "Información referencial. Verifica con la Universidad de Antioquia para decisiones oficiales.",
+    welcomeTitle: "Tu universidad, simplificada",
+    welcomeSubtitle: "Obtén respuestas instantáneas sobre los servicios de la Universidad de Antioquia, reporta incidencias del campus y haz seguimiento a su resolución.",
   },
 };
 

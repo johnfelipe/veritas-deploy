@@ -25,7 +25,7 @@ export interface RAGResponse {
 // Language names for the prompt
 const languageNames: Record<Language, string> = {
   en: "English",
-  fr: "French",
+  fr: "Spanish",
 };
 
 // Build the RAG prompt
@@ -36,7 +36,7 @@ function buildRAGPrompt(
 ): string {
   const langName = languageNames[language];
 
-  return `You are a City of Kingston information assistant. Answer ONLY using the provided sources.
+  return `You are an information assistant for the Universidad de Antioquia (UdeA), Medellín, Colombia. Answer ONLY using the provided sources.
 If the sources don't contain enough information, say "I cannot find reliable information about this."
 
 SOURCES:
@@ -50,7 +50,7 @@ Respond with:
 3. For each claim, cite the source as [Source N]
 
 IMPORTANT:
-- Never invent information. If unsure, recommend contacting the City directly.
+- Never invent information. If unsure, recommend contacting Universidad de Antioquia directly.
 - Keep the answer focused and practical.
 - Respond in ${langName}.`;
 }
@@ -58,8 +58,8 @@ IMPORTANT:
 // Build fallback response when no sources found
 function buildFallbackResponse(language: Language): string {
   const fallbacks: Record<Language, string> = {
-    en: "I cannot find reliable information about this topic in my sources. For accurate information, please contact the City of Kingston directly:\n\n- **Phone**: 613-546-0000\n- **Website**: cityofkingston.ca\n- **In Person**: City Hall, 216 Ontario Street",
-    fr: "Je ne trouve pas d'informations fiables sur ce sujet dans mes sources. Pour des informations précises, veuillez contacter directement la Ville de Kingston:\n\n- **Téléphone**: 613-546-0000\n- **Site Web**: cityofkingston.ca\n- **En personne**: Hôtel de Ville, 216 rue Ontario",
+    en: "I cannot find reliable information about this topic in my sources. For accurate information, please contact Universidad de Antioquia directly:\n\n- **Phone**: +57 (604) 219 8332\n- **Website**: udea.edu.co\n- **In Person**: Ciudad Universitaria, Calle 67 No. 53-108, Medellín",
+    fr: "No encuentro información confiable sobre este tema en mis fuentes. Para información precisa, por favor contacta a la Universidad de Antioquia directamente:\n\n- **Teléfono**: +57 (604) 219 8332\n- **Sitio web**: udea.edu.co\n- **Presencial**: Ciudad Universitaria, Calle 67 No. 53-108, Medellín",
   };
 
   return fallbacks[language] || fallbacks.en;

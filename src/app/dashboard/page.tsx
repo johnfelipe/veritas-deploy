@@ -155,7 +155,7 @@ export default function DashboardPage() {
             <h1 className="text-2xl sm:text-3xl font-bold text-white">{t('dashboard')}</h1>
           </div>
           <p className="text-slate-300">
-            View and track reported civic issues in Kingston
+            Visualiza y rastrea incidencias reportadas en la Universidad de Antioquia
           </p>
         </div>
 

@@ -1,92 +1,43 @@
-# Waste Collection - City of Kingston
+# Gestión de Residuos en la Universidad de Antioquia
 
-## Garbage Collection Schedule
+Guía sobre el manejo de residuos sólidos, reciclaje y puntos ecológicos en la Ciudad Universitaria de la Universidad de Antioquia (UdeA), Medellín.
 
-The City of Kingston provides curbside waste collection services to all residents. Collection occurs weekly on your designated collection day.
+## Puntos Ecológicos en el Campus
 
-### Finding Your Collection Day
+La Universidad de Antioquia cuenta con más de 120 puntos ecológicos distribuidos en la Ciudad Universitaria (Calle 67 No. 53-108, Medellín) y en las sedes regionales. Cada punto ecológico tiene tres contenedores:
 
-To find your garbage day:
-1. Visit the City of Kingston website
-2. Enter your address in the Waste Collection Calendar tool
-3. Download the collection schedule for your area
+- **Verde**: residuos orgánicos (restos de comida, servilletas usadas).
+- **Azul**: reciclables (papel, cartón, plástico y metal limpios).
+- **Gris / Negro**: residuos no aprovechables (empaques sucios, icopor contaminado).
 
-Most residential areas are collected on:
-- **Monday**: Downtown core, Portsmouth Village
-- **Tuesday**: West end, Cataraqui, Collins Bay
-- **Wednesday**: East end, Kingston East
-- **Thursday**: North end, Kingscourt, Rideau Heights
-- **Friday**: Calvin Park, Strathcona Park
+Los puntos ecológicos se encuentran cerca de los bloques 1, 6, 9, 14, 19, 21, Biblioteca Central y las cafeterías centrales.
 
-### What Goes in the Garbage
+## Horarios de Recolección Interna
 
-Place these items in your garbage bin:
-- Food-contaminated packaging
-- Disposable diapers
-- Pet waste in sealed bags
-- Broken dishes and ceramics
-- Vacuum cleaner bags and contents
+El equipo de Servicios Generales realiza la recolección de residuos de lunes a viernes en tres turnos:
 
-### Collection Time
+- **Primer turno**: 6:00 a.m. – 9:00 a.m.
+- **Segundo turno**: 12:00 m. – 2:00 p.m.
+- **Tercer turno**: 5:00 p.m. – 7:00 p.m.
 
-Place your waste at the curb by 7:00 AM on your collection day. Collection occurs between 7:00 AM and 5:00 PM.
+Los sábados hay recolección única entre las 7:00 a.m. y las 11:00 a.m. Los domingos y festivos sólo hay recolección en eventos especiales coordinados con la Dirección de Logística.
 
-## Recycling Program
+## Residuos Peligrosos y Especiales
 
-Kingston has a two-stream recycling program:
+La Universidad maneja de manera separada los residuos peligrosos generados en laboratorios (químicos, biológicos, cortopunzantes) y los Residuos de Aparatos Eléctricos y Electrónicos (RAEE).
 
-### Blue Box (Containers)
-- Plastic bottles and containers (1-7)
-- Metal cans and lids
-- Glass bottles and jars
-- Milk cartons and juice boxes
+- **Residuos químicos y biológicos**: deben ser almacenados en los cuartos de acopio de cada facultad y solicitar retiro al correo gestionambiental@udea.edu.co.
+- **RAEE** (computadores, baterías, cables): llévelos al punto posconsumo de la Biblioteca Central o de la Facultad de Ingeniería.
+- **Pilas y baterías**: depositar únicamente en los contenedores blancos rotulados "Pilas usadas".
 
-### Grey Box (Fibres)
-- Newspapers and flyers
-- Cardboard and boxboard
-- Paper and envelopes
-- Magazines and catalogs
+## Reciclaje de Papel y Cartón
 
-### Recycling Tips
-- Rinse containers before recycling
-- Remove caps from bottles
-- Flatten cardboard boxes
-- No plastic bags in recycling
+El papel de oficina se recoge semanalmente en los bloques administrativos. El material es entregado a asociaciones de recicladores aliadas con la Universidad a través del programa de Gestión Ambiental.
 
-## Green Bin (Organics)
+Para solicitudes de retiro masivo de cartón (por ejemplo después de mudanzas), escribir a logistica@udea.edu.co con 48 horas de anticipación.
 
-Kingston's Green Bin program collects organic waste year-round.
+## Contactos
 
-### Accepted Items
-- Food scraps (fruit, vegetables, meat, bones)
-- Coffee grounds and filters
-- Tea bags
-- Soiled paper products
-- Yard waste (small amounts)
-
-### Green Bin Tips
-- Use newspaper or certified compostable bags
-- Keep bin clean with newspaper liner
-- Store in a cool place to reduce odors
-
-## Large Item Collection
-
-Large items are collected twice per year in spring and fall.
-
-### Accepted Large Items
-- Furniture
-- Mattresses
-- Appliances (doors removed)
-- Carpets (rolled and tied)
-
-### Not Accepted
-- Construction materials
-- Hazardous waste
-- Electronics (take to depot)
-
-## Contact Information
-
-For waste collection inquiries:
-- **Phone**: 613-546-0000
-- **Email**: wasteservices@cityofkingston.ca
-- **Website**: cityofkingston.ca/waste
+- **Programa de Gestión Ambiental**: gestionambiental@udea.edu.co
+- **Servicios Generales**: +57 (604) 219 8332 ext. 2345
+- **Sitio web**: https://www.udea.edu.co/gestion-ambiental

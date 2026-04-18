@@ -1,216 +1,93 @@
-# Community Services - 211 Ontario
+# Servicios de Bienestar y Apoyo a la Comunidad UdeA
 
-211 Ontario is a free, confidential helpline that connects Kingston residents with community and social services. Available 24/7, call 2-1-1 or visit https://211ontario.ca.
+Guía de servicios gratuitos de apoyo y bienestar para la comunidad de la Universidad de Antioquia.
 
----
+## Dirección de Bienestar Universitario
 
-## Emergency Services
+La Dirección de Bienestar Universitario coordina todos los servicios de apoyo integral a estudiantes, docentes y personal administrativo. Ubicada en el Bloque 22 de la Ciudad Universitaria.
 
-### Crisis Lines
-- **Mental Health Crisis Line (Kingston)**: 613-544-4229 (24/7)
-- **Kids Help Phone**: 1-800-668-6868 (24/7)
-- **Suicide Prevention Hotline**: 1-833-456-4566 (24/7)
-- **Frontenac Community Mental Health & Addiction Services**: 613-544-1356
-- **Distress Centre of Ontario**: 613-544-1771
+- **Correo**: bienestaruniversitario@udea.edu.co
+- **Teléfono**: +57 (604) 219 5555
+- **Horario**: lunes a viernes de 8:00 a.m. a 5:00 p.m.
 
-### Domestic Violence & Abuse
-- **Kingston Interval House (Women's Shelter)**: 613-546-1777
-- **Assaulted Women's Helpline**: 1-866-863-0511 (24/7)
-- **Sexual Assault Centre Kingston**: 613-544-6424
+## Apoyo Socioeconómico
 
----
+Programas para estudiantes en condición económica vulnerable:
 
-## Food Security
+- **Tiquete Alimenticio**: almuerzos subsidiados en las cafeterías centrales.
+- **Subsidio de Transporte**: aporte mensual para desplazamientos desde el lugar de residencia.
+- **Descuento por votación** (Ley 403 de 1997): 10% sobre la matrícula.
+- **Matrícula condicional**: aplazamiento del pago para estudiantes con situaciones económicas acreditadas.
+- **Programa de Vivienda**: orientación y convenios con hogares universitarios cercanos.
 
-### Food Banks
-- **Partners in Mission Food Bank**: 613-546-1777
-  - Address: 140 Hickson Avenue, Kingston
-  - Hours: Monday to Friday, 9 AM - 4 PM
-  - Serves all of Kingston and surrounding area
+Postulaciones: al inicio de cada semestre académico vía U-Naula.
 
-- **Martha's Table Community Kitchen**: 613-546-0320
-  - Address: 629 Princess Street, Kingston
-  - Free hot meals served daily
+## Apoyo Académico
 
-- **Loving Spoonful**: 613-507-8848
-  - Fresh produce and grocery delivery programs
-  - Community gardens and food education
+- **Programa de Inducción**: acompañamiento a estudiantes nuevos en su primer semestre.
+- **Tutorías de pares**: estudiantes avanzados apoyan a estudiantes de primeros semestres en asignaturas críticas.
+- **Asesorías metodológicas**: apoyo para técnicas de estudio, lectura, escritura académica.
+- **Cursos remediales**: matemáticas básicas, español funcional, inglés instrumental.
 
-- **Salvation Army Kingston**: 613-548-4411
-  - Food bank and meal programs
-  - Address: 342 Patrick Street, Kingston
+Inscripciones en tutorias@udea.edu.co.
 
-### Community Meals
-- **St. George's Cathedral Community Lunch**: Free lunch Wednesdays 11:30 AM - 12:30 PM
-- **St. Vincent de Paul Society**: Emergency food assistance, 613-549-3282
+## Salud Integral
 
----
+El Centro de Salud Universitario ofrece sin costo:
 
-## Housing & Shelter
+- Consulta de medicina general.
+- Consulta psicológica individual y grupal.
+- Consulta odontológica preventiva (profilaxis, detartraje).
+- Atención nutricional.
+- Jornadas de vacunación (influenza, VPH, fiebre amarilla).
 
-### Emergency Shelters
-- **In From The Cold (Winter Shelter)**: 613-766-0050
-  - Seasonal emergency shelter for those experiencing homelessness
+Asignación de citas: promocionysalud@udea.edu.co o +57 (604) 219 5666.
 
-- **Kingston Interval House**: 613-546-1777
-  - Emergency shelter for women and children fleeing violence
+## Atención a la Discapacidad e Inclusión
 
-- **Home Base Housing**: 613-546-4242
-  - Youth shelter and housing support (ages 16-24)
-  - Address: 540 Montreal Street, Kingston
+- **Programa de Permanencia con Equidad**: apoyo a estudiantes con discapacidad, pueblos indígenas, afrocolombianos, estudiantes provenientes de regiones apartadas.
+- **Asesorías adaptativas**: tecnología adaptativa, intérprete LSC, textos accesibles.
 
-- **Dawn House**: 613-542-7859
-  - Second-stage housing for women and children
+Contacto: inclusion@udea.edu.co.
 
-### Housing Support
-- **Kingston Frontenac Housing Corporation**: 613-546-1569
-  - Affordable housing applications
-  - Rent-geared-to-income housing
+## Atención en Asuntos de Género y Violencia Sexual
 
-- **Housing Help Centre**: 613-546-8587
-  - Help finding rental housing
-  - Landlord-tenant dispute support
-  - Emergency housing funds
+La Universidad cuenta con un Protocolo de Atención de Violencia Sexual y Violencias Basadas en Género.
 
----
+- **Correo**: asuntosgenero@udea.edu.co
+- **Línea de atención**: +57 (604) 219 5800 ext. 1234
+- **Atención confidencial**: sí. El protocolo garantiza la reserva de la identidad de quien denuncia.
 
-## Health Services
+## Orientación Psicosocial y Crisis
 
-### Mental Health
-- **Frontenac Community Mental Health & Addiction Services (FCMHAS)**: 613-544-1356
-  - Case management, counseling, and support groups
-  - Address: 400 Elliott Avenue, Kingston
+Si enfrentas una situación de crisis emocional, depresión, ansiedad o ideación suicida:
 
-- **Canadian Mental Health Association Kingston**: 613-549-7027
-  - Mental health programs and peer support
+1. Comunícate con el servicio de psicología del Centro de Salud.
+2. Fuera del horario universitario, llama a la Línea de la Vida de Medellín: 123 opción 4.
+3. En casos de riesgo inmediato, llama a Seguridad Universitaria al +57 (604) 219 5555 o al 123.
 
-- **Providence Care Hospital - Mental Health**: 613-544-4900
-  - Inpatient and outpatient mental health services
+## Deporte y Cultura
 
-### Addiction Services
-- **Addiction & Mental Health Services KFLA**: 613-544-1356
-  - Assessment, counseling, and treatment referrals
+Ver el documento "Programas de Bienestar, Deporte y Cultura" para el detalle de actividades recreativas, deportivas y culturales disponibles.
 
-- **Alcoholics Anonymous Kingston**: 613-542-0487
-- **Narcotics Anonymous Kingston**: 613-507-0100
+## Apoyo a Docentes y Administrativos
 
-### Healthcare Access
-- **Kingston Community Health Centres**: 613-542-2949
-  - Primary healthcare for uninsured and underserved
-  - Address: 263 Weller Avenue, Kingston
+- **Programa de Bienestar Laboral**: actividades de calidad de vida, clima laboral y salud ocupacional.
+- **Apoyo a jubilación**: asesoría para personal cercano a la edad de retiro.
+- **Fondo de Empleados (FOEMUA)**: créditos, ahorros, servicios funerarios, recreación.
 
-- **Street Health Centre**: 613-549-1440
-  - Healthcare for homeless and street-involved individuals
+## Defensoría del Estudiante (Ombudsman)
 
----
+El Ombudsman es un espacio para defender los derechos de los estudiantes frente a la institución. Atención anónima y gratuita.
 
-## Financial Assistance
+- **Correo**: ombudsman@udea.edu.co
+- **Ubicación**: Bloque 16, piso 2.
 
-### Income Support
-- **Ontario Works (Welfare)**: 613-546-0000
-  - Financial assistance for basic needs
-  - Employment assistance programs
+## Contactos Clave
 
-- **Ontario Disability Support Program (ODSP)**: 1-800-267-8097
-  - Income and employment support for people with disabilities
-
-### Emergency Financial Help
-- **Salvation Army Emergency Assistance**: 613-548-4411
-  - Help with rent, utilities, and food
-
-- **St. Vincent de Paul Society**: 613-549-3282
-  - Emergency financial assistance
-
-### Tax Clinics
-- **Free Tax Clinics Kingston**: Available February-April
-  - For low-income individuals
-  - Contact 211 for locations and dates
-
----
-
-## Family & Youth Services
-
-### Youth Programs
-- **Home Base Housing Youth Services**: 613-546-4242
-  - Shelter and transitional housing for youth 16-24
-
-- **Boys & Girls Club of Kingston**: 613-542-3306
-  - After-school programs and youth activities
-
-- **Youth Diversion Program**: 613-548-4535
-  - Alternative measures for youth in conflict with the law
-
-### Family Support
-- **Children's Aid Society of Kingston**: 613-545-3227
-  - Child protection and family support services
-
-- **Infant & Child Development Program**: 613-549-1335
-  - Early intervention for children with developmental delays
-
-- **Ontario Early Years Centres**: 613-544-6929
-  - Free drop-in programs for parents and children 0-6
-
-### Childcare
-- **Child Care Fee Subsidy Program**: 613-546-2695
-  - Financial help for licensed childcare
-  - Apply through Kingston Frontenac Lennox & Addington region
-
----
-
-## Seniors Services
-
-### Senior Support
-- **Kingston Frontenac Public Library - Seniors Programs**: 613-549-8888
-  - Computer classes, book clubs, social programs
-
-- **Victorian Order of Nurses (VON)**: 613-634-0130
-  - Home care and foot care services
-
-- **Meals on Wheels Kingston**: 613-548-7135
-  - Hot meal delivery for seniors and those with disabilities
-
-### Transportation
-- **Kingston Access Bus**: 613-546-8755
-  - Door-to-door transit for people with disabilities
-
-- **Community Transportation Kingston**: 613-542-2512
-  - Volunteer driver program for medical appointments
-
----
-
-## Legal Services
-
-- **Legal Aid Ontario - Kingston Office**: 613-548-9411
-  - Free legal help for low-income individuals
-  - Address: 720 Gardiners Road, Kingston
-
-- **Queen's Legal Aid**: 613-533-2102
-  - Free legal clinic staffed by law students
-
-- **Landlord and Tenant Board**: 1-888-332-3234
-  - Disputes between landlords and tenants
-
----
-
-## How to Access 211 Services
-
-1. **Call 2-1-1** (free, 24/7, confidential)
-2. **Text** your postal code to 21166
-3. **Visit** https://211ontario.ca
-4. **Chat online** at 211ontario.ca
-
-211 can help you find:
-- Food banks and meal programs
-- Housing and shelter
-- Mental health support
-- Financial assistance
-- Employment services
-- Healthcare resources
-- Seniors programs
-- Youth services
-- Legal help
-- And much more
-
----
-
-*Source: 211 Ontario, City of Kingston Community Services, United Way Kingston*
+- **Bienestar Universitario**: bienestaruniversitario@udea.edu.co
+- **Promoción y Salud**: promocionysalud@udea.edu.co / +57 (604) 219 5666
+- **Asuntos de Género**: asuntosgenero@udea.edu.co
+- **Inclusión**: inclusion@udea.edu.co
+- **Seguridad 24/7**: +57 (604) 219 5555
+- **Sitio web**: https://www.udea.edu.co/bienestar

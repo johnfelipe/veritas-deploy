@@ -1,218 +1,82 @@
-# City Services FAQ - City of Kingston
+# Preguntas Frecuentes - Servicios Universitarios UdeA
 
-## General Information
+Respuestas a las preguntas más comunes sobre los servicios que ofrece la Universidad de Antioquia a su comunidad.
 
-### How do I contact the City of Kingston?
+## Horarios de la Ciudad Universitaria
 
-**Main Phone Number**: 613-546-0000
-**Website**: cityofkingston.ca
-**City Hall Address**: 216 Ontario Street, Kingston, ON K7L 2Z3
+- **Ciudad Universitaria (portería principal Calle 67)**: lunes a viernes de 5:30 a.m. a 10:30 p.m.; sábados de 6:00 a.m. a 8:00 p.m. Domingos y festivos: acceso restringido a eventos autorizados.
+- **Biblioteca Central**: lunes a viernes de 7:00 a.m. a 9:00 p.m.; sábados de 8:00 a.m. a 4:00 p.m.
+- **Centro de Salud**: lunes a viernes de 7:00 a.m. a 5:00 p.m.
 
-**Hours of Operation**:
-- Monday to Friday: 8:30 AM to 4:30 PM
-- Closed on statutory holidays
+## Carné Universitario
 
-### What services does the City provide?
+El carné universitario es el documento de identificación válido dentro del campus. Se utiliza para:
 
-The City of Kingston provides:
-- Waste collection and recycling
-- Water and sewer services
-- Road maintenance
-- Parks and recreation
-- Transit services (Kingston Transit)
-- Fire and emergency services
-- Bylaw enforcement
-- Planning and building permits
-- Property tax services
+- Ingresar a la Ciudad Universitaria por las porterías.
+- Solicitar préstamo de libros en el Sistema de Bibliotecas.
+- Acceder a los servicios de Bienestar, parqueaderos, salas de cómputo.
 
-## Property Taxes
+Si pierdes tu carné, solicita duplicado en la Oficina de Admisiones y Registro (Bloque 16, piso 1) o en el portal serviciosalacomunidad@udea.edu.co.
 
-### When are property taxes due?
+## Matrícula y Liquidación
 
-Property taxes are due in two installments:
-- **Interim Bill**: Last business day of February
-- **Final Bill**: Last business day of June
+- **Estudiantes nuevos**: la liquidación se envía al correo institucional después del proceso de admisión.
+- **Estudiantes antiguos**: la liquidación se genera automáticamente al final de cada semestre y se publica en el portal U-Naula.
+- **Descuentos**: los estudiantes con votación electoral certificada tienen derecho al 10% de descuento (Ley 403 de 1997).
 
-### How can I pay my property taxes?
+Consulta con registro académico en admisionesregistro@udea.edu.co.
 
-Payment options include:
-- Online banking (add City of Kingston as payee)
-- Pre-authorized payment plan
-- In person at City Hall
-- By mail (cheque payable to City of Kingston)
-- Credit card (online only, convenience fee applies)
+## Wi-Fi y Conectividad
 
-### How do I get a tax certificate?
+La red Wi-Fi institucional "UdeA" está disponible en todos los bloques académicos, Biblioteca Central y cafeterías.
 
-Tax certificates are required for real estate transactions. Request at City Hall or online. Fee: $50
+- **Usuario**: nombre.apellido (correo institucional sin el dominio).
+- **Contraseña**: la misma del portal U-Naula.
 
-## Water Services
+Problemas de conexión: mesa de ayuda en soporte@udea.edu.co o Bloque 21, piso 1.
 
-### How do I set up a water account?
+## Transporte y Rutas
 
-For new accounts:
-1. Call 613-546-0000
-2. Provide proof of ownership or lease
-3. Provide meter reading if available
+La Universidad se conecta con el sistema de transporte público de Medellín:
 
-### How do I read my water meter?
+- **Metro de Medellín**: estación Universidad (Línea A), a 100 metros de la portería principal.
+- **Metroplús**: rutas que bordean la Ciudad Universitaria.
+- **Rutas de buses**: múltiples rutas integradas al SITP metropolitano.
 
-Your water meter displays consumption in cubic meters. To read:
-1. Locate meter (usually in basement)
-2. Record the black numbers
-3. Compare to previous reading
+La Universidad NO ofrece rutas propias de transporte dentro de la ciudad; sólo rutas especiales entre sedes regionales.
 
-### What if I have a water emergency?
+## Cafeterías y Alimentación
 
-For water main breaks, sewer backups, or flooding:
-- Call 613-546-1181 (24/7 emergency line)
+La Ciudad Universitaria cuenta con cafeterías subsidiadas:
 
-## Building and Permits
+- **Cafetería Central** (Bloque 22): desayuno, almuerzo y cena para estudiantes con tiquete alimenticio.
+- **Cafeterías satélites** (bloques 8, 9, 14, 19): almuerzos ejecutivos y snacks.
 
-### Do I need a building permit?
+Horarios: lunes a viernes de 7:00 a.m. a 6:30 p.m.; sábados de 8:00 a.m. a 2:00 p.m.
 
-Building permits are required for:
-- New construction
-- Additions and renovations
-- Decks over 24 inches high
-- Sheds over 108 square feet
-- Swimming pools
-- Demolitions
+## Salud y Bienestar
 
-### How do I apply for a building permit?
+- **Cita médica general o psicológica**: promocionysalud@udea.edu.co o llamando al +57 (604) 219 5666.
+- **Urgencias dentro del campus**: Seguridad Universitaria +57 (604) 219 5555.
+- **Emergencias médicas**: línea 123 (Medellín) o 125 (ambulancia).
 
-1. Visit Building Services at City Hall
-2. Submit completed application with plans
-3. Pay applicable fees
-4. Wait for permit approval (timelines vary)
+## Certificados Académicos
 
-### How long does permit approval take?
+Los certificados de estudio, notas y contenidos programáticos se solicitan en línea en el portal U-Naula y se entregan en formato digital con firma electrónica.
 
-- Simple permits (decks, sheds): 5-10 business days
-- Residential renovations: 10-15 business days
-- New construction: 20-30 business days
+Costos y tiempos de entrega: https://www.udea.edu.co/admisionesregistro
 
-## Transit
+## Asuntos Internacionales
 
-### How much does Kingston Transit cost?
+Si eres estudiante internacional o buscas movilidad internacional:
 
-**Single Ride Fares**:
-- Adult: $3.25
-- Student/Senior: $2.75
-- Child (5 and under): Free
+- **Dirección de Relaciones Internacionales**: internacionalizacion@udea.edu.co
+- **Visas estudiantiles**: guía disponible en el portal oficial.
 
-**Monthly Passes**:
-- Adult: $85
-- Student/Senior: $65
+## Contactos Generales
 
-### Where can I buy a bus pass?
-
-Bus passes are available at:
-- Kingston Transit office (181 Counter Street)
-- City Hall
-- Various retail locations
-
-### How do I plan a bus trip?
-
-- Use the Kingston Transit website: kingstontransit.ca
-- Download the Transit app
-- Call 613-546-0000 for route information
-
-## Recycling and Waste
-
-### What day is my garbage collected?
-
-Find your collection day:
-- Visit cityofkingston.ca/waste
-- Enter your address
-- View your collection calendar
-
-### How do I dispose of hazardous waste?
-
-Hazardous waste is accepted at:
-- Household Hazardous Waste Depot
-- 196 Lappan's Lane
-- Open seasonally (May to October)
-
-Accepted items include:
-- Paint and solvents
-- Batteries
-- Motor oil
-- Pesticides
-- Propane tanks
-
-### How do I get a new garbage bin?
-
-Request a replacement bin:
-- Online: cityofkingston.ca/waste
-- Phone: 613-546-0000
-- Fee: $25 for replacement bins
-
-## Animal Licensing
-
-### Does my dog need a license?
-
-Yes, all dogs over 3 months old must be licensed. License fees:
-- Spayed/Neutered: $20/year
-- Unaltered: $35/year
-- Senior (65+): 50% discount
-
-### Where do I license my dog?
-
-- Online: cityofkingston.ca/pets
-- City Hall
-- Kingston Humane Society
-
-### What if I find a stray animal?
-
-Contact Kingston Humane Society:
-- Phone: 613-542-5722
-- Address: 1 Binnington Court
-
-## Marriage Licenses
-
-### How do I get a marriage license?
-
-1. Both parties visit City Hall
-2. Bring valid photo ID
-3. Pay fee: $140
-4. License valid for 90 days
-
-### Can I have my ceremony at City Hall?
-
-Yes, civil ceremonies are available:
-- By appointment only
-- Fee: $250
-- Includes marriage license
-
-## Business Licensing
-
-### What businesses need a City license?
-
-Licenses required for:
-- Restaurants and food establishments
-- Taxis and ride-share drivers
-- Street vendors
-- Short-term rentals (Airbnb)
-- Kennels and pet services
-
-### How do I apply for a business license?
-
-1. Visit cityofkingston.ca/business
-2. Complete application for your business type
-3. Pay applicable fee
-4. Meet inspection requirements
-
-## Contact Directory
-
-| Service | Phone |
-|---------|-------|
-| General Inquiries | 613-546-0000 |
-| Water/Sewer Emergency | 613-546-1181 |
-| Transit | 613-546-0000 |
-| Bylaw Enforcement | 613-546-0000 ext. 5 |
-| Building Services | 613-546-4291 ext. 3180 |
-| Recreation | 613-546-4291 ext. 1500 |
-| Property Taxes | 613-546-4291 ext. 1200 |
-| Fire Department (non-emergency) | 613-546-4291 ext. 5000 |
-| Kingston Police (non-emergency) | 613-549-4660 |
+- **Línea principal UdeA**: +57 (604) 219 8332
+- **Seguridad Universitaria 24/7**: +57 (604) 219 5555
+- **Centro de Salud**: +57 (604) 219 5666
+- **Correo institucional general**: informacion@udea.edu.co
+- **Sitio web**: https://www.udea.edu.co

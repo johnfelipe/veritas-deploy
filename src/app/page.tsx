@@ -49,21 +49,21 @@ export default function Home() {
           <div className="flex flex-wrap items-center justify-center gap-3 mb-6">
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-indigo-500/20 border border-indigo-500/30 text-indigo-300 backdrop-blur-sm">
               <Sparkles className="w-4 h-4" />
-              <span className="text-sm font-medium">AI-Powered Civic Platform</span>
+              <span className="text-sm font-medium">Plataforma Universitaria con IA</span>
             </div>
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-emerald-500/20 border border-emerald-500/30 text-emerald-300 backdrop-blur-sm">
               <Shield className="w-4 h-4" />
-              <span className="text-sm font-medium">Built for Kingston</span>
+              <span className="text-sm font-medium">Para la Universidad de Antioquia</span>
             </div>
           </div>
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold mb-6">
-            <span className="gradient-text drop-shadow-lg">Truth and Clarity</span>
+            <span className="gradient-text drop-shadow-lg">Verdad y Claridad</span>
             <br />
-            <span className="text-white">for Civic Life</span>
+            <span className="text-white">para la vida universitaria</span>
           </h1>
           <p className="text-xl text-slate-300 max-w-2xl mx-auto">
-            Get reliable answers about City of Kingston services and report civic issues
-            with confidence. Powered by AI with transparent sources.
+            Obtén respuestas confiables sobre los servicios de la Universidad de Antioquia - Colombia
+            y reporta incidencias del campus con confianza. Impulsado por IA con fuentes transparentes.
           </p>
         </div>
 
@@ -79,13 +79,13 @@ export default function Home() {
                 <div>
                   <h2 className="text-2xl font-semibold mb-2 text-white">{t('askQuestion')}</h2>
                   <p className="text-slate-300 mb-4">
-                    Get answers about city services, bylaws, programs, and more.
-                    Every answer includes verified sources.
+                    Obtén respuestas sobre servicios universitarios, reglamentos, programas y más.
+                    Cada respuesta incluye fuentes verificadas.
                   </p>
                   <ul className="space-y-2 text-sm">
                     <li className="flex items-center gap-2 text-emerald-400">
                       <CheckCircle className="w-4 h-4" />
-                      Verified city sources
+                      Fuentes oficiales UdeA
                     </li>
                     <li className="flex items-center gap-2 text-emerald-400">
                       <CheckCircle className="w-4 h-4" />
@@ -116,8 +116,8 @@ export default function Home() {
                 <div>
                   <h2 className="text-2xl font-semibold mb-2 text-white">{t('reportIssue')}</h2>
                   <p className="text-slate-300 mb-4">
-                    Report potholes, graffiti, noise complaints, and other civic
-                    issues. Track your report status.
+                    Reporta huecos en vías internas, graffitis, ruido, fallas eléctricas y otras
+                    incidencias del campus. Haz seguimiento del estado de tu reporte.
                   </p>
                   <ul className="space-y-2 text-sm">
                     <li className="flex items-center gap-2 text-emerald-400">
@@ -225,7 +225,7 @@ export default function Home() {
                   <div>
                     <h3 className="text-lg font-semibold text-white">{t('dashboard')}</h3>
                     <p className="text-sm text-slate-300">
-                      See all reported issues on a map and track their status
+                      Visualiza todas las incidencias reportadas en un mapa del campus y su estado
                     </p>
                   </div>
                 </div>
@@ -244,9 +244,9 @@ export default function Home() {
                   <Shield className="w-6 h-6 text-white" />
                 </div>
                 <div className="text-center sm:text-left">
-                  <h3 className="text-lg font-semibold text-white">Blockchain-Verified Transparency</h3>
+                  <h3 className="text-lg font-semibold text-white">Transparencia verificable por cadena de hashes</h3>
                   <p className="text-sm text-slate-300">
-                    Every interaction is cryptographically logged on Solana for public accountability
+                    Cada interacción se registra criptográficamente para rendición de cuentas pública
                   </p>
                 </div>
               </div>
@@ -262,7 +262,7 @@ export default function Home() {
           <div className="flex items-center gap-2">
             <Shield className="w-5 h-5 text-slate-400" />
             <span className="text-sm text-slate-400">
-              Veritas - Kingston Civic Clarity Engine
+              Veritas - Universidad de Antioquia · Claridad Institucional
             </span>
           </div>
           <p className="text-xs text-slate-500 text-center">

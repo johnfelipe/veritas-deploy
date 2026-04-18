@@ -1,185 +1,58 @@
-# Reporting Civic Issues - City of Kingston
+# Cómo Reportar Incidencias en la Universidad de Antioquia
 
-## Overview
+Guía para reportar incidencias de infraestructura, seguridad y convivencia en la Ciudad Universitaria y sedes de la Universidad de Antioquia.
 
-The City of Kingston makes it easy to report problems in your neighborhood. Whether it's a pothole, graffiti, or a broken streetlight, we want to hear from you.
+## Qué Puedes Reportar
 
-## How to Report Issues
+La plataforma Veritas y los canales oficiales permiten reportar:
 
-### Online (Recommended)
+- **Infraestructura**: huecos en vías internas, andenes dañados, barandas sueltas, filtraciones, humedades.
+- **Alumbrado**: luminarias fundidas o intermitentes en pasillos, plazoletas y parqueaderos.
+- **Aseo**: puntos ecológicos desbordados, áreas con residuos acumulados.
+- **Seguridad**: comportamientos sospechosos, hurtos, daño a bienes universitarios.
+- **Convivencia**: ruido excesivo, consumo de sustancias en espacios comunes, grafitis no autorizados.
+- **Accesibilidad**: rampas obstruidas, ascensores fuera de servicio, falta de señalización.
 
-1. Visit cityofkingston.ca/reportissue
-2. Select the issue type
-3. Provide location details
-4. Upload a photo (optional but helpful)
-5. Submit and receive a reference number
+## Cómo Reportar con Veritas
 
-### By Phone
+1. Ingresa a https://veritas-kingston.onrender.com
+2. Haz clic en "Reportar una incidencia".
+3. Selecciona el tipo de incidencia.
+4. Describe el problema con la mayor precisión posible.
+5. Indica la ubicación (puedes escribir "Bloque 9, piso 3, salón 301" o seleccionar en el mapa).
+6. Adjunta una foto si la tienes (opcional).
+7. Envía. Recibirás un número de reporte y un hash de auditoría.
 
-Call 613-546-0000 and select option for your issue type:
-- Roads and infrastructure: Press 3
-- Parks and recreation: Press 4
-- Bylaws and enforcement: Press 5
+## Canales Oficiales Complementarios
 
-### In Person
+- **Logística y Mantenimiento** (infraestructura, aseo, alumbrado): logistica@udea.edu.co o ext. 8540.
+- **Seguridad Universitaria** (24/7, emergencias): +57 (604) 219 5555.
+- **Convivencia y Bienestar**: convivencia@udea.edu.co.
+- **Asuntos de Género** (acoso, discriminación, violencia sexual): asuntosgenero@udea.edu.co.
+- **Ombudsman de Estudiantes**: ombudsman@udea.edu.co.
 
-Visit City Hall at 216 Ontario Street during business hours:
-- Monday to Friday: 8:30 AM to 4:30 PM
+## Información que Debes Incluir
 
-### Mobile App
+- **Ubicación precisa**: bloque, piso, salón, pasillo o hito más cercano.
+- **Descripción**: qué observas, desde cuándo, a qué horas ocurre.
+- **Foto o evidencia**: si es seguro capturarla.
+- **Impacto**: cuántas personas están siendo afectadas.
+- **Datos de contacto**: opcional pero recomendado para seguimiento.
 
-Download the Kingston Connects app for easy reporting on the go (iOS and Android).
+## Tiempos de Respuesta Esperados
 
-## Types of Issues to Report
+Los tiempos de respuesta dependen de la criticidad:
 
-### Roads and Infrastructure
+- **Alta** (riesgo inminente a la seguridad): atención inmediata por Seguridad Universitaria.
+- **Media** (infraestructura dañada con impacto académico): entre 24 y 72 horas hábiles.
+- **Baja** (mantenimiento preventivo, estética): hasta 10 días hábiles.
 
-**Potholes**
-- Location (street address or intersection)
-- Size (small, medium, large)
-- Lane affected (driving lane, parking lane)
+## Seguimiento y Transparencia
 
-Response time: 48 hours for safety hazards, 2-5 days for standard repairs
+Cada reporte queda registrado en la cadena de auditoría de Veritas con un hash SHA-256 que permite verificar que no ha sido alterado. Puedes consultar el estado de tu reporte usando el número asignado.
 
-**Sidewalk Damage**
-- Cracked or lifted sections
-- Trip hazards
-- Missing sections
+## Contactos
 
-**Street Signs**
-- Damaged or missing signs
-- Obscured signs (overgrown vegetation)
-- Faded or unreadable signs
-
-### Street Lighting
-
-**Streetlight Problems**
-- Light not working
-- Light flickering
-- Light stays on during the day
-- Damaged pole
-
-To report, you'll need:
-- Pole number (located on the pole)
-- Street address
-- Description of problem
-
-### Parks and Green Spaces
-
-**Park Issues**
-- Damaged playground equipment
-- Overflowing garbage bins
-- Fallen trees or branches
-- Vandalism
-
-**Trail Maintenance**
-- Overgrown vegetation
-- Damaged surfaces
-- Flooding or drainage issues
-- Missing signage
-
-### Water and Sewer
-
-**Water Issues**
-- Water main breaks (call immediately)
-- Low water pressure
-- Discolored water
-- Leaking hydrants
-
-**Sewer Problems**
-- Blocked storm drains
-- Sewer backups
-- Flooding
-- Odor issues
-
-For emergencies (water main breaks, sewer backups): Call 613-546-1181 (24/7)
-
-### Graffiti
-
-Report graffiti on:
-- City property (buildings, signs, bridges)
-- Public spaces
-
-The City will remove graffiti on City property within 5 business days.
-
-For graffiti on private property, contact the property owner.
-
-### Illegal Dumping
-
-Report illegal dumping of:
-- Garbage on public property
-- Hazardous materials
-- Large items dumped on streets
-
-### Animals
-
-**Stray Animals**
-- Contact Kingston Humane Society: 613-542-5722
-
-**Wildlife Issues**
-- Contact Ministry of Natural Resources: 1-800-667-1940
-
-**Dead Animals on Roads**
-- Report to City: 613-546-0000
-
-## Response Times
-
-| Issue Type | Response Time |
-|------------|---------------|
-| Safety hazards (large potholes, downed signs) | 24-48 hours |
-| Standard road repairs | 2-5 business days |
-| Streetlight repairs | 3-5 business days |
-| Graffiti removal (City property) | 5 business days |
-| Park maintenance | 5-7 business days |
-
-## Tracking Your Report
-
-### Reference Number
-
-When you submit a report, you'll receive a reference number. Use this to:
-- Check status online
-- Call for updates
-- Provide additional information
-
-### Status Updates
-
-Reports go through these stages:
-1. **Submitted**: Report received
-2. **Assigned**: Sent to appropriate department
-3. **In Progress**: Work scheduled or underway
-4. **Completed**: Issue resolved
-
-## Tips for Effective Reporting
-
-1. **Be specific about location**
-   - Use street addresses or intersections
-   - Include landmarks
-   - Specify which side of the street
-
-2. **Describe the problem clearly**
-   - What exactly is wrong?
-   - How severe is it?
-   - Is it a safety hazard?
-
-3. **Include photos when possible**
-   - Shows extent of damage
-   - Helps crews locate issue
-   - Provides documentation
-
-4. **Provide contact information**
-   - Allows staff to ask clarifying questions
-   - Enables status updates
-
-## Contact Information
-
-**General Inquiries**
-- Phone: 613-546-0000
-- Website: cityofkingston.ca/reportissue
-
-**Emergency Services**
-- Water/Sewer Emergency: 613-546-1181 (24/7)
-- Police/Fire/Ambulance: 911
-
-**Bylaw Enforcement**
-- Phone: 613-546-0000 ext. 5
-- Email: bylawenforcement@cityofkingston.ca
+- **Mesa de Ayuda de Logística**: +57 (604) 219 8332 ext. 8540
+- **Seguridad Universitaria 24/7**: +57 (604) 219 5555
+- **Sitio web**: https://www.udea.edu.co/servicios/reporte-incidencias

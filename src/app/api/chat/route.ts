@@ -25,8 +25,8 @@ async function executeFileReport(args: {
 }): Promise<{ success: boolean; reportId?: string; error?: string }> {
   try {
     // Geocode the address
-    let latitude = 44.2312;
-    let longitude = -76.486;
+    let latitude = 6.2676;
+    let longitude = -75.5685;
 
     try {
       const geocoded = await geocodeAddress(args.address);
@@ -35,7 +35,7 @@ async function executeFileReport(args: {
         longitude = geocoded.lng;
       }
     } catch {
-      // Use default coordinates for Kingston
+      // Use default coordinates for Universidad de Antioquia (Ciudad Universitaria)
     }
 
     const reportId = uuidv4();

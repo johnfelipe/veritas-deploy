@@ -33,10 +33,10 @@ interface ScanResult {
   overallDescription: string;
 }
 
-// Default Kingston location for fallback
+// Default Universidad de Antioquia (Ciudad Universitaria) location
 const DEFAULT_LOCATION = {
-  lat: 44.2312,
-  lng: -76.486,
+  lat: 6.2676,
+  lng: -75.5685,
 };
 
 export default function ScanPage() {
@@ -69,7 +69,7 @@ export default function ScanPage() {
           });
         },
         () => {
-          // Fall back to Kingston center if geolocation denied
+          // Fall back to UdeA campus center if geolocation denied
           setUserLocation(DEFAULT_LOCATION);
         }
       );
@@ -89,7 +89,7 @@ export default function ScanPage() {
     const timer = setTimeout(async () => {
       setIsSearching(true);
       const results = await searchAddresses(address, 5, {
-        countryCode: "ca",
+        countryCode: "co",
         nearLat: userLocation?.lat,
         nearLng: userLocation?.lng,
       });

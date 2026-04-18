@@ -113,14 +113,14 @@ export default function AskPage() {
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-indigo-500/20 border border-indigo-500/30 text-indigo-300 mb-4 backdrop-blur-sm">
               <MessageSquare className="w-4 h-4" />
               <span className="text-sm font-medium">
-                AI-Powered City Information
+Información Universitaria con IA
               </span>
             </div>
             <h1 className="text-3xl sm:text-4xl font-bold mb-2 text-white">
               {t('askQuestion')}
             </h1>
             <p className="text-slate-300">
-              Get answers about City of Kingston services with verified sources
+              Obtén respuestas sobre los servicios de la Universidad de Antioquia con fuentes verificadas
             </p>
           </div>
 

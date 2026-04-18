@@ -16,28 +16,36 @@ interface DocumentChunk {
 // Document metadata
 const documentMeta: Record<string, { url: string; category: string }> = {
   "waste-collection.md": {
-    url: "https://www.cityofkingston.ca/residents/waste-disposal",
+    url: "https://www.udea.edu.co/gestion-ambiental",
     category: "waste",
   },
   "parking-bylaws.md": {
-    url: "https://www.cityofkingston.ca/residents/parking",
+    url: "https://www.udea.edu.co/servicios/parqueaderos",
     category: "parking",
   },
   "recreation-programs.md": {
-    url: "https://www.cityofkingston.ca/residents/recreation",
+    url: "https://www.udea.edu.co/bienestar/deporte-cultura",
     category: "recreation",
   },
   "noise-bylaws.md": {
-    url: "https://www.cityofkingston.ca/residents/bylaws/noise",
-    category: "bylaws",
+    url: "https://www.udea.edu.co/reglamentos/convivencia",
+    category: "reglamentos",
   },
   "report-issues.md": {
-    url: "https://www.cityofkingston.ca/residents/report-an-issue",
+    url: "https://www.udea.edu.co/servicios/reporte-incidencias",
     category: "services",
   },
   "city-services-faq.md": {
-    url: "https://www.cityofkingston.ca/residents/city-services",
+    url: "https://www.udea.edu.co/servicios",
     category: "services",
+  },
+  "bylaws-overview.md": {
+    url: "https://www.udea.edu.co/reglamentos",
+    category: "reglamentos",
+  },
+  "community-services-211.md": {
+    url: "https://www.udea.edu.co/bienestar",
+    category: "bienestar",
   },
 };
 
@@ -102,7 +110,7 @@ async function seedDocuments() {
     const content = fs.readFileSync(path.join(docsDir, file), "utf-8");
     const title = extractTitle(content);
     const meta = documentMeta[file] || {
-      url: "https://www.cityofkingston.ca",
+      url: "https://www.udea.edu.co",
       category: "general",
     };
 

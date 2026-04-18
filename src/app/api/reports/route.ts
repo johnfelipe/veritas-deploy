@@ -80,14 +80,14 @@ export async function POST(request: NextRequest) {
           latitude = geocoded.lat;
           longitude = geocoded.lng;
         } else {
-          // Default to Kingston city center
-          latitude = 44.2312;
-          longitude = -76.486;
+          // Default to Universidad de Antioquia (Ciudad Universitaria)
+          latitude = 6.2676;
+          longitude = -75.5685;
         }
       } catch {
-        // Default to Kingston city center
-        latitude = 44.2312;
-        longitude = -76.486;
+        // Default to Universidad de Antioquia (Ciudad Universitaria)
+        latitude = 6.2676;
+        longitude = -75.5685;
       }
     }
 

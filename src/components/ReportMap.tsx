@@ -9,8 +9,8 @@ interface ReportMapProps {
   selectedReportId?: string;
 }
 
-// Kingston city center coordinates
-const KINGSTON_CENTER = { lat: 44.2312, lng: -76.486 };
+// Universidad de Antioquia (Ciudad Universitaria) center coordinates
+const KINGSTON_CENTER = { lat: 6.2676, lng: -75.5685 };
 
 const typeColors: Record<string, string> = {
   pothole: "#f97316",
