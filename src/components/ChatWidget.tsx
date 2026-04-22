@@ -19,6 +19,15 @@ import {
 import { Button } from "./ui/button";
 import { GlassCard } from "./ui/card";
 import { Badge } from "./ui/badge";
+import { useTranslation, type Language } from "./LanguageSelector";
+
+// Map our internal language codes to BCP-47 locales used by the
+// Web Speech API.  "fr" is historically our code for Spanish content
+// (see LanguageSelector.tsx for the rationale).
+const SPEECH_LOCALES: Record<Language, string> = {
+  en: "en-US",
+  fr: "es-CO",
+};
 
 interface Message {
   role: "user" | "assistant";
@@ -95,6 +104,7 @@ function ChatTTS({ text }: { text: string }) {
 }
 
 export function ChatWidget() {
+  const { language } = useTranslation();
   const [isOpen, setIsOpen] = useState(false);
   const [messages, setMessages] = useState<Message[]>([]);
   const [input, setInput] = useState("");
@@ -104,30 +114,49 @@ export function ChatWidget() {
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const recognitionRef = useRef<SpeechRecognition | null>(null);
 
-  // Initialize speech recognition
+  // Initialize speech recognition. Recreate whenever the active UI
+  // language changes so the recognizer uses the correct BCP-47 locale
+  // (e.g. "es-CO" for Spanish/Colombia instead of defaulting to English).
   useEffect(() => {
-    if (typeof window !== "undefined" && ("SpeechRecognition" in window || "webkitSpeechRecognition" in window)) {
-      const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
-      recognitionRef.current = new SpeechRecognition();
-      recognitionRef.current.continuous = false;
-      recognitionRef.current.interimResults = false;
-      recognitionRef.current.lang = "en-US";
-
-      recognitionRef.current.onresult = (event) => {
-        const transcript = event.results[0][0].transcript;
-        setInput((prev) => prev + transcript);
-        setIsListening(false);
-      };
-
-      recognitionRef.current.onerror = () => {
-        setIsListening(false);
-      };
-
-      recognitionRef.current.onend = () => {
-        setIsListening(false);
-      };
+    if (
+      typeof window === "undefined" ||
+      !("SpeechRecognition" in window || "webkitSpeechRecognition" in window)
+    ) {
+      return;
     }
-  }, []);
+
+    const SpeechRecognitionCtor =
+      window.SpeechRecognition || window.webkitSpeechRecognition;
+    const recognition = new SpeechRecognitionCtor();
+    recognition.continuous = false;
+    recognition.interimResults = false;
+    recognition.lang = SPEECH_LOCALES[language] ?? "es-CO";
+
+    recognition.onresult = (event) => {
+      const transcript = event.results[0][0].transcript;
+      setInput((prev) => prev + transcript);
+      setIsListening(false);
+    };
+
+    recognition.onerror = () => {
+      setIsListening(false);
+    };
+
+    recognition.onend = () => {
+      setIsListening(false);
+    };
+
+    recognitionRef.current = recognition;
+
+    return () => {
+      try {
+        recognition.abort();
+      } catch {
+        // Ignore errors when cleaning up a recognizer that never started.
+      }
+      recognitionRef.current = null;
+    };
+  }, [language]);
 
   const toggleVoiceInput = () => {
     if (!recognitionRef.current) return;
@@ -177,6 +206,7 @@ export function ChatWidget() {
         body: JSON.stringify({
           message: userMessage.content,
           sessionId,
+          language,
         }),
       });
 
@@ -194,12 +224,15 @@ export function ChatWidget() {
       setMessages((prev) => [...prev, assistantMessage]);
     } catch (error) {
       console.error("Chat error:", error);
+      const errorMessage =
+        language === "en"
+          ? "Sorry, I encountered an error. Please try again."
+          : "Lo siento, tuve un problema procesando tu mensaje. Por favor intenta de nuevo.";
       setMessages((prev) => [
         ...prev,
         {
           role: "assistant",
-          content:
-            "Sorry, I encountered an error. Please try again.",
+          content: errorMessage,
           timestamp: Date.now(),
         },
       ]);

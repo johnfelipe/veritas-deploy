@@ -92,8 +92,16 @@ export async function clearConversation(sessionId: string): Promise<void> {
   await db.delete(chatSessions).where(eq(chatSessions.sessionId, sessionId));
 }
 
-// Build the system prompt for the chatbot
-export function buildChatSystemPrompt(): string {
+// Build the system prompt for the chatbot. `language` follows the app's
+// legacy codes: "fr" means Spanish (the default for UdeA), "en" means English.
+export function buildChatSystemPrompt(
+  language: "en" | "fr" = "fr"
+): string {
+  const responseLanguage =
+    language === "en"
+      ? "Respond in English."
+      : "Responde SIEMPRE en español (castellano de Colombia), incluso si la pregunta del usuario contiene palabras en inglés, a menos que el usuario pida explícitamente otro idioma.";
+
   return `You are Veritas, an AI assistant for the Universidad de Antioquia (UdeA), Medellín, Colombia. You help students, staff and visitors:
 
 1. Answer questions about university services, reglamentos, programs, and policies
@@ -104,7 +112,6 @@ When helping with reports, you should:
 - Ask clarifying questions to gather: issue type, location (e.g. "Bloque 9", "Biblioteca Central"), description
 - Be conversational and friendly
 - Once you have enough info, offer to file the report
-- You can respond in Spanish or English depending on the user's language
 
 Available issue types: pothole, noise, parking, graffiti, streetlight, sidewalk, other
 
@@ -113,7 +120,9 @@ You have access to these tools:
 - search_knowledge_base: Search UdeA documents for answers
 - get_report_status: Check status of a report by ID
 
-Always be helpful, concise, and professional. If you don't know something, direct users to contact Universidad de Antioquia directly at udea.edu.co.`;
+Always be helpful, concise, and professional. If you don't know something, direct users to contact Universidad de Antioquia directly at udea.edu.co.
+
+Language: ${responseLanguage}`;
 }
 
 // Define the tools for function calling

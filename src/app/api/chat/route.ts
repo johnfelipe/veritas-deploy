@@ -75,20 +75,24 @@ async function executeFileReport(args: {
   }
 }
 
-async function executeSearchKnowledgeBase(args: {
-  query: string;
-}): Promise<{ answer: string; hasSource: boolean }> {
+async function executeSearchKnowledgeBase(
+  args: { query: string },
+  language: "en" | "fr" = "fr"
+): Promise<{ answer: string; hasSource: boolean }> {
   try {
-    const result = await askQuestion(args.query, "en");
+    const result = await askQuestion(args.query, language);
     return {
       answer: result.answer,
       hasSource: result.hasReliableSource,
     };
   } catch (error) {
     console.error("Error searching knowledge base:", error);
+    const fallback =
+      language === "en"
+        ? "I couldn't search the knowledge base at this time. Please try again."
+        : "No pude consultar la base de conocimiento en este momento. Por favor intenta de nuevo.";
     return {
-      answer:
-        "I couldn't search the knowledge base at this time. Please try again.",
+      answer: fallback,
       hasSource: false,
     };
   }
@@ -121,7 +125,13 @@ async function executeGetReportStatus(args: {
 
 export async function POST(request: NextRequest) {
   try {
-    const { message, sessionId, clearHistory } = await request.json();
+    const {
+      message,
+      sessionId,
+      clearHistory,
+      language: rawLanguage,
+    } = await request.json();
+    const language: "en" | "fr" = rawLanguage === "en" ? "en" : "fr";
 
     if (!message || !sessionId) {
       return new Response(
@@ -149,7 +159,7 @@ export async function POST(request: NextRequest) {
     // Build the chat with function declarations
     const model = genAI.getGenerativeModel({
       model: "gemini-2.0-flash",
-      systemInstruction: buildChatSystemPrompt(),
+      systemInstruction: buildChatSystemPrompt(language),
       tools: [
         {
           functionDeclarations: [
@@ -265,7 +275,8 @@ export async function POST(request: NextRequest) {
 
           case "search_knowledge_base":
             functionResult = await executeSearchKnowledgeBase(
-              call.args as { query: string }
+              call.args as { query: string },
+              language
             );
             break;
 

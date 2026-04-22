@@ -169,7 +169,9 @@ const LanguageContext = createContext<LanguageContextType | undefined>(undefined
 
 // Language Provider component
 export function LanguageProvider({ children }: { children: ReactNode }) {
-  const [language, setLanguageState] = useState<Language>("en");
+  // Default to Spanish ("fr" in our legacy code) since this deployment
+  // targets the Universidad de Antioquia community.
+  const [language, setLanguageState] = useState<Language>("fr");
   const [isHydrated, setIsHydrated] = useState(false);
 
   // Load language from localStorage on mount
